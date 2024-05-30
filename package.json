@@ -19,7 +19,7 @@
     "./package.json": "./package.json"
   },
   "dependencies": {
-    "eslint-visitor-keys": "^2.0.0"
+    "eslint-visitor-keys": "^4.0.0"
   },
   "devDependencies": {
     "@mysticatea/eslint-plugin": "^13.0.0",
